@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a112dddc.js",
+    "static/media/bgImgSeventhpage.png": "/static/media/bgImgSeventhpage.57510c6e93e06eabc233.png",
+    "static/media/dad-boy.mp4": "/static/media/dad-boy.10f495dbe646ee8fb5f5.mp4",
+    "static/media/bgImgFirstpage.png": "/static/media/bgImgFirstpage.f118b0065ea4d738c479.png",
+    "static/media/services4.png": "/static/media/services4.31c38f2ec84935557186.png",
+    "static/media/secondPageImg.png": "/static/media/secondPageImg.5e8238bc3308d01a7ce8.png",
+    "static/media/services6.png": "/static/media/services6.d31cc5680678da87726d.png",
+    "static/media/services5.png": "/static/media/services5.2bbcd82c03cc0f50653b.png",
+    "static/media/services1.png": "/static/media/services1.784d84b8d3dc01cddf2d.png",
+    "static/media/services3.png": "/static/media/services3.87cc0fbeb5a3fc11a6eb.png",
+    "static/media/services2.png": "/static/media/services2.607c3e3ac7d845eaa2c2.png",
+    "static/media/testimonials3.png": "/static/media/testimonials3.093bc3a8f5f2dfe17c97.png",
+    "static/media/product1.png": "/static/media/product1.d284a88f47dc21e5b2af.png",
+    "static/media/testimonials2.png": "/static/media/testimonials2.20cf17870bb0286831b7.png",
+    "static/media/testimonials1.png": "/static/media/testimonials1.86796420901c4fc43516.png",
+    "index.html": "/index.html",
+    "main.a112dddc.js.map": "/static/js/main.a112dddc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a112dddc.js"
+  ]
+}

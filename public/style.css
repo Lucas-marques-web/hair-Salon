@@ -1,0 +1,172 @@
+
+* {
+    /* text-align: center; */
+    margin: 0;
+    padding: 0;
+    font-family: 'Sorts Mill Goudy', serif;
+    }
+    hr{
+        color: black;
+        background-color: black;
+        height:2px;
+        opacity: 1;
+        margin-top: 45px;
+    
+    }
+    .whiteHr{
+        color:white;
+        background-color: white;
+    }
+    
+    h1{
+        font-size: 65px;
+    }
+    h2{
+        font-size: 29px;
+    }
+    h3{
+        font-size: 25px;
+    }
+    h4{
+        font-size: 19px;
+    }
+    
+    
+    .firstpage{
+        width: 100%;
+        height:600px;
+        color:white;
+        text-align: center;
+    }
+    .firstpage img{
+        opacity: 0.95;
+    }
+    .firstpagegroup{
+        margin-top: 10%;
+        color:white;
+        padding-bottom: 100px;
+    }
+    
+    .firstpagegroup h1{
+        font-family: serif;
+    }
+    
+    .firstpagebtn{
+        background-color: transparent;
+        border: 6px solid white;
+        padding: 10px;
+        color: white;
+        margin-top: 7%;
+        font-size: 16px;
+    }
+    .hoverbtn{
+        background-color: white;
+        border: 6px solid white;
+        color:black;
+        padding: 10px;
+    }
+    
+    .secondpage{
+        background-color: #C4BDAC;
+        height:700px;
+        width:100%;
+        padding-top: 50px;
+    
+    }
+    .secondpage img{
+        width:300px;
+        height:400px;
+    
+    }
+    .secondpagecontent{
+        margin-top: 90px;
+        width: 450px;
+        text-align:left;
+        font-size: 20px;
+    }
+    
+    
+    .thirdpage{
+        height: 600px;
+        width:100%;
+    }
+    .thirdpage img{
+        width:100%;
+        height:300px;
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+    .thirdpage hr{
+        position: relative;
+        bottom:40px;
+    }
+    .servicescontent{
+        position: relative;
+        bottom:40px
+    }
+    
+    .videobg{
+        height:95%;
+        width:100%;
+        object-fit: cover;
+        position:relative;
+        z-index: -1;
+        opacity: 0.95;
+    }
+    .fifthpage{
+        height:750px;
+    }
+    
+    .fifthpageGrid{
+        margin-top: 200px;
+    }
+    
+    .fifthpageGridImg{
+        width:50px;
+    }
+    
+    .sixthpage{
+        margin-bottom: 50px;
+        text-align: center;
+        height: 100vh;
+    }
+    .card{
+        height:450px;
+        text-align: left;
+        border-color: #252627;
+    }
+    
+    .seventhpage{
+        background-size: cover;
+        height:110vh;
+    }
+    
+    .seventhpagecontent{
+        width:400px;
+        position:relative;
+        left:350px;
+        top:200px;
+        color:white;
+        text-align: left;
+    }
+    
+    .eighthpage{
+        height: 600px;
+        color:white;
+        background-color: #252627;
+        text-align: center;
+        padding-top: 40px;
+    }
+    .eighthpage hr{
+        width: 90%;
+        margin-left: 60px;
+    }
+    .eighthpagecontent{
+        margin-top: 150px;
+    }
+    .eighthpage-p{
+        margin-top: 150px;
+    }
+    .social{
+        padding:0 6px;
+    }
